@@ -1,2 +1,2 @@
-# Practicadia2
+# Practica_dia2
 Esto es solo practica
